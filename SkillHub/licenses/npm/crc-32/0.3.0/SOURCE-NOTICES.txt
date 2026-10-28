@@ -1,3 +1,0 @@
-Source files: crc32.js
-
-/* crc32.js (C) 2014-2015 SheetJS -- http://sheetjs.com */

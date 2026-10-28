@@ -1,1 +1,0 @@
-The license of this skill is identical to the root license in Apache 2.0.
